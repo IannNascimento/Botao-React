@@ -4,9 +4,11 @@ Esse projeto foi criado para compreender as estruturas dos arquivos. Removendo v
 
 Dentro de Botao-React encontrarar os seguintes arquivos.
 
+```
 Botao-React
 │
 ├── public
+│   ├──apple-icon.png
 │   ├── favicon.ico
 │   ├── index.html
 │   └── manifest.json
@@ -50,3 +52,4 @@ Botao-React
     └── views
         ├── Components
         │   ├── Buttons.jsx
+```
