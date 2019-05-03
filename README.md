@@ -1,9 +1,10 @@
-Esse projeto foi criado para compreender as estruturas dos arquivos. Removendo varios componentes, mantendo a pagina de botões e alguns componentes para organização e formatação.
+# Objetivo
+
+Esse projeto foi criado para compreender as estruturas dos arquivos. Removendo vários componentes, mantendo a página de Botões e alguns componentes para organização e formatação.
 
 ## Estrutura dos arquivos
 
-Dentro de Botao-React encontrarar os seguintes arquivos.
-
+Dentro de Botao-React encontrará os seguintes arquivos.
 ```
 Botao-React
 │
