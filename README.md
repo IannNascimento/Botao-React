@@ -7,7 +7,6 @@ Dentro de Botao-React encontrarar os seguintes arquivos.
 Botao-React
 │
 ├── public
-│   ├──apple-icon.png
 │   ├── favicon.ico
 │   ├── index.html
 │   └── manifest.json
