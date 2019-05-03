@@ -31,8 +31,6 @@ class Dashboard extends React.Component {
       image: image,
       color: "blue",
       bgColor: "black",
-      hasImage: true,
-      fixedClasses: "dropdown"
     };
     this.resizeFunction = this.resizeFunction.bind(this);
   }
